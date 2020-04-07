@@ -20,10 +20,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\DevOps\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -40,25 +40,33 @@
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="79" y="218" key="#Notifications/0.40.1920.1040@0.40.1920.1040" timestamp="1586262024222" />
+    <state x="356" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586265051759">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="356" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1586265051759" />
     <state x="259" y="399" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586262142714">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="259" y="399" key="#com.intellij.fileTypes.FileTypeChooser/0.40.1920.1040@0.40.1920.1040" timestamp="1586262142714" />
-    <state x="449" y="185" key="FileChooserDialogImpl" timestamp="1586264069874">
+    <state x="449" y="185" key="FileChooserDialogImpl" timestamp="1586269515092">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="449" y="185" key="FileChooserDialogImpl/0.40.1920.1040@0.40.1920.1040" timestamp="1586264069874" />
-    <state x="470" y="142" width="998" height="830" key="SettingsEditor" timestamp="1586263982827">
+    <state x="449" y="185" key="FileChooserDialogImpl/0.40.1920.1040@0.40.1920.1040" timestamp="1586269515092" />
+    <state x="81" y="67" width="998" height="830" key="SettingsEditor" timestamp="1586269519304">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="470" y="142" width="998" height="830" key="SettingsEditor/0.40.1920.1040@0.40.1920.1040" timestamp="1586263982827" />
+    <state x="81" y="67" width="998" height="830" key="SettingsEditor/0.40.1920.1040@0.40.1920.1040" timestamp="1586269519304" />
+    <state x="495" y="241" key="Vcs.Push.Dialog.v2" timestamp="1586264724046">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="495" y="241" key="Vcs.Push.Dialog.v2/0.40.1920.1040@0.40.1920.1040" timestamp="1586264724046" />
     <state x="677" y="260" key="git4idea.merge.GitPullDialog" timestamp="1586264061917">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="677" y="260" key="git4idea.merge.GitPullDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1586264061917" />
-    <state x="150" y="269" key="search.everywhere.popup" timestamp="1586264413902">
+    <state x="150" y="269" width="672" height="678" key="search.everywhere.popup" timestamp="1586268767044">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="150" y="269" key="search.everywhere.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1586264413902" />
+    <state x="150" y="269" width="672" height="678" key="search.everywhere.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1586268767044" />
   </component>
 </project>
