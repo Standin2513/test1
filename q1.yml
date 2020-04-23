@@ -24,7 +24,7 @@
     raw: cd q1
 
   - name: step3.1
-    shell:mvn package
+    shell: mvn package
 
   - name: step4
     copy:
