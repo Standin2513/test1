@@ -1,6 +1,6 @@
----
+--
 - name: install boxfuse
-  hosts: web
+  hosts: www
   become: yes
 
   tasks:
@@ -18,20 +18,20 @@
   - name: step2
     git:
       repo: https://github.com/boxfuse/boxfuse-sample-java-war-hello
-      dest: /home/qwe/q1
+      dest: /home/dev/hello
 
   - name: step3
-    raw: cd q1
-
-  - name: step3.1
-    shell: mvn package
+    shell: mvn package chdir=hello
 
   - name: step4
     copy:
-      src: boxfuse-sample-java-war-hello/target/hello-1.0.war
-      dest: /usr/local/tomcat/webapps
+      src: hello/target/hello-1.0.war
+      dest: /var/lib/tomcat8/webapps
+      remote_src: yes
+      directory_mode: yes
 
   - name: step5
     service:
       name: tomcat8
       state: started
+
