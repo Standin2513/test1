@@ -33,5 +33,5 @@
   - name: step5
     service:
       name: tomcat8
-      state: started
+      state: restarted
 
